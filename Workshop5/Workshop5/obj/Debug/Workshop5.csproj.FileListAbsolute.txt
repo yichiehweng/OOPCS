@@ -1,0 +1,6 @@
+C:\OOPCS\Workshop5\Workshop5\bin\Debug\Workshop5.exe.config
+C:\OOPCS\Workshop5\Workshop5\bin\Debug\Workshop5.exe
+C:\OOPCS\Workshop5\Workshop5\bin\Debug\Workshop5.pdb
+C:\OOPCS\Workshop5\Workshop5\obj\Debug\Workshop5.csprojResolveAssemblyReference.cache
+C:\OOPCS\Workshop5\Workshop5\obj\Debug\Workshop5.exe
+C:\OOPCS\Workshop5\Workshop5\obj\Debug\Workshop5.pdb

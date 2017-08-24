@@ -1,0 +1,5 @@
+C:\OOPCS\Rational\Rational\bin\Debug\Rational.dll
+C:\OOPCS\Rational\Rational\bin\Debug\Rational.pdb
+C:\OOPCS\Rational\Rational\obj\Debug\Rational.csprojResolveAssemblyReference.cache
+C:\OOPCS\Rational\Rational\obj\Debug\Rational.dll
+C:\OOPCS\Rational\Rational\obj\Debug\Rational.pdb

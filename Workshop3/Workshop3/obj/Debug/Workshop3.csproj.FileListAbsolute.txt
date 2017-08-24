@@ -1,0 +1,8 @@
+C:\OOPCS\Workshop3\Workshop3\bin\Debug\Workshop3.exe.config
+C:\OOPCS\Workshop3\Workshop3\bin\Debug\Workshop3.exe
+C:\OOPCS\Workshop3\Workshop3\bin\Debug\Workshop3.pdb
+C:\OOPCS\Workshop3\Workshop3\obj\Debug\Workshop3.csprojResolveAssemblyReference.cache
+C:\OOPCS\Workshop3\Workshop3\obj\Debug\Workshop3.exe
+C:\OOPCS\Workshop3\Workshop3\obj\Debug\Workshop3.pdb
+C:\OOPCS\Workshop3\Workshop3\bin\Debug\Rational.dll
+C:\OOPCS\Workshop3\Workshop3\bin\Debug\Rational.pdb

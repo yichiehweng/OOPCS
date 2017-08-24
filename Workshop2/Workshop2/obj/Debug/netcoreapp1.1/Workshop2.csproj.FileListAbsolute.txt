@@ -1,0 +1,9 @@
+C:\OOPCS\Workshop2\Workshop2\bin\Debug\netcoreapp1.1\Workshop2.deps.json
+C:\OOPCS\Workshop2\Workshop2\bin\Debug\netcoreapp1.1\Workshop2.runtimeconfig.json
+C:\OOPCS\Workshop2\Workshop2\bin\Debug\netcoreapp1.1\Workshop2.runtimeconfig.dev.json
+C:\OOPCS\Workshop2\Workshop2\obj\Debug\netcoreapp1.1\Workshop2.csprojResolveAssemblyReference.cache
+C:\OOPCS\Workshop2\Workshop2\obj\Debug\netcoreapp1.1\Workshop2.AssemblyInfo.cs
+C:\OOPCS\Workshop2\Workshop2\bin\Debug\netcoreapp1.1\Workshop2.dll
+C:\OOPCS\Workshop2\Workshop2\bin\Debug\netcoreapp1.1\Workshop2.pdb
+C:\OOPCS\Workshop2\Workshop2\obj\Debug\netcoreapp1.1\Workshop2.dll
+C:\OOPCS\Workshop2\Workshop2\obj\Debug\netcoreapp1.1\Workshop2.pdb

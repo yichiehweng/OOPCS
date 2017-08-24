@@ -1,0 +1,7 @@
+C:\OOPCS\Workshop7\Workshop7\bin\Debug\Workshop7.exe.config
+C:\OOPCS\Workshop7\Workshop7\bin\Debug\Workshop7.exe
+C:\OOPCS\Workshop7\Workshop7\bin\Debug\Workshop7.pdb
+C:\OOPCS\Workshop7\Workshop7\obj\Debug\Workshop7.csprojResolveAssemblyReference.cache
+C:\OOPCS\Workshop7\Workshop7\obj\Debug\Workshop7.csproj.CoreCompileInputs.cache
+C:\OOPCS\Workshop7\Workshop7\obj\Debug\Workshop7.exe
+C:\OOPCS\Workshop7\Workshop7\obj\Debug\Workshop7.pdb

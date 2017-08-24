@@ -1,0 +1,6 @@
+C:\OOPCS\Day4\Day4\bin\Debug\Day4.exe.config
+C:\OOPCS\Day4\Day4\bin\Debug\Day4.exe
+C:\OOPCS\Day4\Day4\bin\Debug\Day4.pdb
+C:\OOPCS\Day4\Day4\obj\Debug\Day4.csprojResolveAssemblyReference.cache
+C:\OOPCS\Day4\Day4\obj\Debug\Day4.exe
+C:\OOPCS\Day4\Day4\obj\Debug\Day4.pdb

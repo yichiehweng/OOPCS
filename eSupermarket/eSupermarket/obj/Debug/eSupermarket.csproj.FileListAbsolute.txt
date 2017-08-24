@@ -1,0 +1,7 @@
+C:\OOPCS\eSupermarket\eSupermarket\bin\Debug\eSupermarket.exe.config
+C:\OOPCS\eSupermarket\eSupermarket\bin\Debug\eSupermarket.exe
+C:\OOPCS\eSupermarket\eSupermarket\bin\Debug\eSupermarket.pdb
+C:\OOPCS\eSupermarket\eSupermarket\obj\Debug\eSupermarket.csproj.CoreCompileInputs.cache
+C:\OOPCS\eSupermarket\eSupermarket\obj\Debug\eSupermarket.exe
+C:\OOPCS\eSupermarket\eSupermarket\obj\Debug\eSupermarket.pdb
+C:\OOPCS\eSupermarket\eSupermarket\obj\Debug\eSupermarket.csprojResolveAssemblyReference.cache

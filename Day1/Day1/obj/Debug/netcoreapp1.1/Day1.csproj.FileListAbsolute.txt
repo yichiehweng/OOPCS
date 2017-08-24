@@ -1,0 +1,9 @@
+C:\OOPCS\Day1\Day1\bin\Debug\netcoreapp1.1\Day1.deps.json
+C:\OOPCS\Day1\Day1\bin\Debug\netcoreapp1.1\Day1.runtimeconfig.json
+C:\OOPCS\Day1\Day1\bin\Debug\netcoreapp1.1\Day1.runtimeconfig.dev.json
+C:\OOPCS\Day1\Day1\bin\Debug\netcoreapp1.1\Day1.dll
+C:\OOPCS\Day1\Day1\bin\Debug\netcoreapp1.1\Day1.pdb
+C:\OOPCS\Day1\Day1\obj\Debug\netcoreapp1.1\Day1.csprojResolveAssemblyReference.cache
+C:\OOPCS\Day1\Day1\obj\Debug\netcoreapp1.1\Day1.AssemblyInfo.cs
+C:\OOPCS\Day1\Day1\obj\Debug\netcoreapp1.1\Day1.dll
+C:\OOPCS\Day1\Day1\obj\Debug\netcoreapp1.1\Day1.pdb
